@@ -2,6 +2,7 @@
   <br>Hi, there! I'm Pedro! ️
 </h1>
 
+
 <div align="center">
   <a href="https://github.com/pedroffda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroffda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -11,7 +12,9 @@
 <!--
 icones das linguagens retirados de devicons
 -->
-  
+ 
+
+
 <div align="center">
   <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
   <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
@@ -22,4 +25,11 @@ icones das linguagens retirados de devicons
   <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
   
+ 
+<h1 align="center">
   
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro.ffda/)
+  <a href="mailto:pedrofelipeferreira1311@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+
+</h1>
