@@ -1,4 +1,6 @@
-<h1 align="center">  
+<h1 align="center">
+  <img src=https://media4.giphy.com/media/XbxTN4g1k2EeYvFe5e/giphy.gif?cid=ecf05e47lihnk2253znfiovans4kj1hsx9fmtfpsnwlorh3q&rid=giphy.gif&ct=s"
+    height="20%" width="20%" position: center;">
   <br>Hi, there! I'm Pedro! ️
 </h1>
 
