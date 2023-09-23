@@ -15,9 +15,9 @@ Hello, I'm a student at [Federal University of Piaui](https://ufpi.br/) in bache
 <table cellspacing="0" cellpadding="0" style="width: fit-content; border:0; max-width: fit-content">
         <tr>
                 <td>
-                        <a href="https://app.daily.dev/pedroffda">
-                                <img src="https://api.daily.dev/devcards/d0f8d16d226f4cd984bf72c1c0b0b4ea.png?r=xdi" 
-                                        width="400" alt="Pedro's Dev Card"/>
+                        <a href="https://app.daily.dev/jecrs687">
+                                <img src="https://github.com/pedroffda/pedroffda/blob/main/devcard.svg"
+                                        width="400" alt="Emanuel Cascone's Dev Card" />
                         </a>
                 </td>
                 <td>
