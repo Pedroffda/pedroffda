@@ -17,7 +17,7 @@ Hello, I'm a student at [Federal University of Piaui](https://ufpi.br/) in bache
                 <td>
                         <a href="https://app.daily.dev/jecrs687">
                                 <img src="https://github.com/pedroffda/pedroffda/blob/main/devcard.svg"
-                                        width="400" alt="Emanuel Cascone's Dev Card" />
+                                        width="400" alt="Pedro's Dev Card" />
                         </a>
                 </td>
                 <td>
@@ -27,14 +27,14 @@ Hello, I'm a student at [Federal University of Piaui](https://ufpi.br/) in bache
                                         <a href="https://github.com/pedroffda">
                                                <img aling="center"
                                                         src="https://github-readme-stats.vercel.app/api?username=Pedroffda&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true&ring_color=pink"
-                                                        alt="pedroffda's github stats" width="400"/>
+                                                        alt="pedroffda's github stats" width="500"/>
                                         </a> 
                                 </tr>
                           <br/>
                                 <tr> 
                                               <a href="https://github.com/pedroffda">
-                                                                   <img src="https://github-readme-stats.vercel.app/api/top-langs/?                  username=Pedroffda&layout=compact&theme=dark&hide_border=true&langs_count=6"
-                                                                          width="190" />
+                                                                   <img aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroffda&layout=compact&theme=dark&hide_border=true&langs_count=6"
+                                                                          width="350" />
                                               </a>       
                                 </tr>
                         </table>
