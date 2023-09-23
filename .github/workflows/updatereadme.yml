@@ -1,0 +1,16 @@
+name: update readme
+permissions:
+  contents: write
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 5 */5 * *' # Runs every day
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+jobs:
+  devcard:
+    name: Update dev card posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: devcard
+        uses: dailydotdev/action-devcard@2.0.4
+        with:
+          devcard_id: ${{ secrets.DEVCARD_ID }}
