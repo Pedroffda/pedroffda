@@ -14,12 +14,12 @@ Hello, I'm a student at [Federal University of Piaui](https://ufpi.br/) in bache
 
 <table cellspacing="0" cellpadding="0" style="width: fit-content; border:0; max-width: fit-content">
         <tr>
-                <td>
+<!--                 <td>
                         <a href="https://app.daily.dev/pedroffda">
                                 <img src="https://github.com/pedroffda/pedroffda/blob/main/devcard.svg"
                                         width="400" alt="Pedro's Dev Card" />
                         </a>
-                </td>
+                </td> -->
                 <td>
                         <table style="width: fit-content; border:0;">
                           <br/>
